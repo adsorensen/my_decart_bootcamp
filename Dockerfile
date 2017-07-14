@@ -9,4 +9,3 @@ COPY compare_images.py /compare_images.py
 
 # Make our script the executable that will be run via "docker run"
 ENTRYPOINT ["python", "/compare_images.py"]
-Contact GitHub API Training Shop Blog About
